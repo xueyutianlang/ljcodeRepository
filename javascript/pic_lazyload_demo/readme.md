@@ -42,4 +42,3 @@ effect:'fadeIn'.effect(特效),值有show(直接显示),fadeIn(淡入),slideDown
 #container { height: 600px; overflow: scroll; }
 ```
 container: $("#container")；container,值为某容器.lazyload默认在拉动浏览器滚动条时生效,这个参数可以让你在拉动某DIV的滚动条时依次加载其中的图片
-
